@@ -1,9 +1,9 @@
-- 🔭 I’m currently working on DevOps
-- 🌱 I’m currently learning Rust and Network
-- 👯 I’m looking to collaborate on Debian
-- 🤔 I’m looking for help with Free Software
-- 💬 Ask me about GNU/Linux, Computer History
-- 📫 How to reach me: esmaeelEE@protonmail.com
+- 🤔 I’m looking for contribute in Free Software.
+- 🔭 I’m currently working on DevOps.
+- 🌱 I’m currently learning Rust and Network.
+- 👯 I’m looking to collaborate on Debian GNU/Linux.
+- 💬 Ask me about GNU/Linux, Computer History.
+- 📫 Reach me: esmaeelEE[AT]protonmail.com
 - ⚡ Motto: ...
 
 ## :zap: Github Stats
