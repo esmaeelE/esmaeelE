@@ -12,5 +12,5 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=esmaeelE&theme=tokyonight&show_icons=false&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaeelE&theme=tokyonight&langs_count=10&layout=compact&exclude_repo=Python-notes,linux-notes,slides" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaeelE&theme=tokyonight&langs_count=10&layout=compact" />
 </div>
