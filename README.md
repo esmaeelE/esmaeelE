@@ -1,7 +1,7 @@
-- 🤔 I’m looking for contribute in Free Software.
-- 🔭 I’m currently working on DevOps.
-- 🌱 I’m currently learning Rust and Network.
-- 👯 I’m looking to collaborate on Debian GNU/Linux.
+- 🤔 Contributing in Free Software.
+- 🔭 Working in DevOps.
+- 🌱 Learning Rust and Network.
+- 👯 Looking to collaborate on Debian GNU/Linux.
 - 💬 Ask me about GNU/Linux, Computer History.
 - 📫 Reach me: esmaeelEE[AT]protonmail.com
 - ⚡ Motto: ...
