@@ -1,10 +1,7 @@
-- 🤔 Contributing in Free Software.
-- 🔭 Working in DevOps.
 - 🌱 Learning Rust and Network.
-- 👯 Looking to collaborate on Debian GNU/Linux.
 - 💬 Ask me about GNU/Linux, Computer History.
 - 📫 Reach me: esmaeelEE[AT]protonmail.com
-- ⚡ Motto: ...
+- ⚡ Motto: Free Software is the first battle in liberation of [our] cyberspace. RMS
 
 ## :zap: Github Stats
 
