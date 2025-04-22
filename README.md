@@ -1,5 +1,5 @@
 - 🌱 Learning Rust and Network.
-- 💬 Ask me about GNU/Linux, Computer History.
+- 💬 Free Software, GNU/Linux, Computer History.
 - 📫 Reach me: esmaeelEE[AT]protonmail.com
 - ⚡ Motto: Free Software is the first battle in liberation of [our] cyberspace. [RMS](https://en.wikipedia.org/wiki/Richard_Stallman)
 
